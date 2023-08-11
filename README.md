@@ -18,7 +18,8 @@
 
   It seems that there is still no world clock that integrates these four elements and displays them.
   There is no complexity at all, rather it is intuitive to see and understand, 
- and it greatly helps you to imagine the local time and trading situation of each market around the world.
+ and it greatly helps you to imagine the local time and trading situation of each market around the world.<br>
+<br>
 <br>
 <br>
 <br>
@@ -64,12 +65,34 @@
   There is also a normal world clock mode that does not display currency rates, and a local time display mode (used when setting local time).
 <br>
 <br>
-#設定方法
-
-    SDカードのルートに以下のファイルとフォルダを作成しておくと、使用できるようになります。
+<br>
+　　 設定方法 <br>
+ <br>
+　　プログラム本体はM5Burnerでダウンロードしてください。
+    SDカードに以下のファイルとフォルダを作成してください。
 <br>
     1. wifi.txtファイル：ファイル名は"wifi.txt"で、中身は次の通りです。
     YOUR_WIFI_SSID
     YOUR_WIFI_PASS
  <br>
-    2.時計盤の画像フォルダ：フォルダ名は"world market clock"で、Code→DownloadZIPより
+    2.時計盤の画像フォルダ：フォルダ名は"world market clock"で、Code→DownloadZIPよりダウンロードし、SDカードにフォルダに保存してください。
+<br>
+<br>
+<br>
+How to set <br>
+ <br>
+　　Please download the main program with M5Burner.
+    Create the following files and folders on your SD card.
+<br>
+    1. wifi.txt file: The file name is "wifi.txt" and the content is as follows.
+    YOUR_WIFI_SSID
+    YOUR_WIFI_PASS
+ <br>
+    2. Clock face image folder: The folder name is "world market clock", download it from Code→DownloadZIP, and save it in the folder on the SD card.
+<br>
+<br>
+
+
+
+
+    
