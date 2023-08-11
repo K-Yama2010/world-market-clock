@@ -95,13 +95,13 @@ How to set <br>
 　　 使い方 <br>
  <br>
 A&Cボタン：ローカル時間の設定（リセット後もローカル時間の設定は記憶されます。）<br>
-Bボタン：　為替レートの表示　ON/OFF　（レート表示中は秒針は表示されません）<br>
+Bボタン：　為替レートの表示　ON/OFF　（レートは約１０秒間隔で更新されます。またレート表示中は秒針は表示されません）<br>
 <br>
 <br>
 　　Usage <br>
  <br>
 A&C button: Local time setting (Local time setting is memorized even after reset.)<br>
-B button: Exchange rate display ON/OFF (The second hand is not displayed while the rate is displayed)<br>
+B button: Exchange rate display ON/OFF　(The rate is updated at intervals of about 10 seconds.The second hand is not displayed while the rate is being displayed)<br>
 <br>
 
     
