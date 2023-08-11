@@ -91,8 +91,17 @@ How to set <br>
     2. Clock face image folder: The folder name is "world market clock", download it from Code→DownloadZIP, and save it in the folder on the SD card.
 <br>
 <br>
-
-
-
+<br>
+　　 使い方 <br>
+ <br>
+A&Cボタン：ローカル時間の設定（リセット後もローカル時間の設定は記憶されます。）<br>
+Bボタン：　為替レートの表示　ON/OFF　（レート表示中は秒針は表示されません）<br>
+<br>
+<br>
+　　Usage <br>
+ <br>
+A&C button: Local time setting (Local time setting is memorized even after reset.)<br>
+B button: Exchange rate display ON/OFF (The second hand is not displayed while the rate is displayed)<br>
+<br>
 
     
