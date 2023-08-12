@@ -1,4 +1,4 @@
-# world-market-clock
+# world-market-clock　
 
 輸出入企業の社員または経営者、そして貿易事務系の仕事をされてる方向けの24時間世界時計です。
 
@@ -23,7 +23,7 @@
 <br>
 <br>
 <br>
- 時計盤の上部にローカル時間、下部に主要4通貨（３通貨ペア）のレートをリアルタイムで表示します。
+ 時計盤の上部にローカル時間、右側に主要4通貨（３通貨ペア）のレートをリアルタイムで表示します。
 
  側面のLEDは相場の変動に応じて色が変わります（緑→オレンジ→赤）。常時レートの数字を注視していなくても凡その相場のムードを把握することが可能です。
 
@@ -45,7 +45,7 @@
 <br>
 <br>
 <br>
- Local time is displayed at the top of the clock face, and rates of 4 major currencies (3 currency pairs) are displayed in real time at the bottom.
+Local time is displayed at the right of the clock face, and rates of 4 major currencies (3 currency pairs) are displayed in real time.
 
  The LED on the side changes color according to market fluctuations (green → orange → red). Even if you don't pay attention to the rate numbers all the time, it is possible to grasp the mood of the market.
 
@@ -68,27 +68,31 @@
 <br>
 　　 設定方法 <br>
  <br>
-　　プログラム本体はM5Burnerでダウンロードしてください。
-    SDカードに以下のファイルとフォルダを作成してください。
+　プログラム本体はM5Burnerでダウンロードし、
+    SDカードに以下のファイルとフォルダを作成してください。<br>
 <br>
-    1. wifi.txtファイル：ファイル名は"wifi.txt"で、中身は次の通りです。
-    YOUR_WIFI_SSID
-    YOUR_WIFI_PASS
+    1. wifi.txtファイル：<br>
+    ファイル名は"wifi.txt"で、中身は次の通りで１行目にID,２行目にパスワードを記入してください。<br>
+    <br>
+    YOUR_WIFI_SSID<br>
+    YOUR_WIFI_PASS<br>
  <br>
-    2.時計盤の画像フォルダ：フォルダ名は"world market clock"で、Code→DownloadZIPよりダウンロードし、SDカードにフォルダに保存してください。
+    2.時計盤の画像フォルダ：<br>
+    フォルダ名は"world market clock"で、Code→DownloadZIPよりダウンロードし、SDカードにフォルダごと保存してください。<br>
 <br>
 <br>
 <br>
 How to set <br>
  <br>
-　　Please download the main program with M5Burner.
-    Create the following files and folders on your SD card.
+　Please download the main program with M5Burner.<br>
+    Create the following files and folders on your SD card.<br>
 <br>
-    1. wifi.txt file: The file name is "wifi.txt" and the content is as follows.
-    YOUR_WIFI_SSID
-    YOUR_WIFI_PASS
+    1.wifi.txt file: <br>
+    The file name is "wifi.txt", and the content is as follows. Enter your ID on the first line and the password on the second line. <br>
+    YOUR_WIFI_SSID<br>
+    YOUR_WIFI_PASS<br>
  <br>
-    2. Clock face image folder: The folder name is "world market clock", download it from Code→DownloadZIP, and save it in the folder on the SD card.
+    2. Clock face image folder: The folder name is "world market clock", download it from Code→DownloadZIP, and save it in the folder on the SD card.<br>
 <br>
 <br>
 <br>
