@@ -78,7 +78,7 @@ Local time is displayed at the right of the clock face, and rates of 4 major cur
     YOUR_WIFI_PASS<br>
  <br>
     2.時計盤の画像フォルダ：<br>
-    フォルダ名は"world market clock"で、Code→DownloadZIPよりダウンロードし、SDカードにフォルダごと保存してください。<br>
+    フォルダ名は"world clock"で、Code→DownloadZIPよりダウンロードし、SDカードにフォルダごと保存してください。<br>
 <br>
 <br>
 <br>
@@ -92,7 +92,7 @@ How to set <br>
     YOUR_WIFI_SSID<br>
     YOUR_WIFI_PASS<br>
  <br>
-    2. Clock face image folder: The folder name is "world market clock", download it from Code→DownloadZIP, and save it in the folder on the SD card.<br>
+    2. Clock face image folder: The folder name is "world clock", download it from Code→DownloadZIP, and save it in the folder on the SD card.<br>
 <br>
 <br>
 <br>
