@@ -64,7 +64,6 @@ Local time is displayed at the right of the clock face, and rates of 4 major cur
 <br>
   There is also a normal world clock mode that does not display currency rates, and a local time display mode (used when setting local time).
 <br>
-![WMK１０](https://github.com/K-Yama2010/world-market-clock/assets/141997302/0e7f274c-cfda-4055-9931-d5c855f46f14)
 <br>
 <br>
 　　 設定方法 <br>
