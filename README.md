@@ -72,13 +72,19 @@ Local time is displayed at the right of the clock face, and rates of 4 major cur
 
 ![WMK１０](https://github.com/K-Yama2010/world-market-clock/assets/141997302/e50f1cef-c35a-4891-97e2-8a16f973088b)
 
-　　開発経緯<br>
+<br>
+    開発経緯<br>
 　　development process<br>
 
-   
+![世界時計説明１１](https://github.com/K-Yama2010/world-market-clock/assets/141997302/d3cca64b-a4a7-4d6e-9008-2d47101c1758)
+<br>
+<br>
+その世界時計の弱点を上記でデザインした24時間アナログ時計に地域と時間を書き込むことによって解決。どの地域が日の出、日没、日中、深夜が即座に分かります。同時に経済活動が活発な時間帯の地域も分かることを意味します。<br>
+We solved the weakness of the world clock by writing the region and time to the 24-hour analog clock designed above. So you can instantly see which area is sunrise, sunset, day, or midnight. At the same time, it means that you can also see the areas where economic activity is active.
 
 
-
+<br>
+<br>
 <br>
 　　 設定方法 <br>
  <br>
