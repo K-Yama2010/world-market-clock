@@ -72,6 +72,13 @@ Local time is displayed at the right of the clock face, and rates of 4 major cur
 
 ![WMK１０](https://github.com/K-Yama2010/world-market-clock/assets/141997302/e50f1cef-c35a-4891-97e2-8a16f973088b)
 
+　　開発経緯<br>
+　　development process<br>
+
+   
+
+
+
 <br>
 　　 設定方法 <br>
  <br>
