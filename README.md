@@ -127,5 +127,8 @@ Bボタン：　為替レートの表示　ON/OFF　（レートは約１０秒�
 A&C button: Local time setting (Local time setting is memorized even after reset.)<br>
 B button: Exchange rate display ON/OFF　(The rate is updated at intervals of about 10 seconds.The second hand is not displayed while the rate is being displayed)<br>
 <br>
+<br>
+<br>
+<br>
 
-    
+ ![wmk13](https://github.com/K-Yama2010/world-market-clock/assets/141997302/6893e242-7464-4d0f-8e90-8dd2145c71c5)   
