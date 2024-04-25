@@ -79,8 +79,8 @@ Local time is displayed at the right of the clock face, and rates of 4 major cur
 ![世界時計説明１１](https://github.com/K-Yama2010/world-market-clock/assets/141997302/d3cca64b-a4a7-4d6e-9008-2d47101c1758)
 <br>
 <br>
-その世界時計の弱点を上記でデザインした24時間アナログ時計に地域と時間を書き込むことによって解決。どの地域が日の出、日没、日中、深夜が即座に分かります。同時に経済活動が活発な時間帯の地域も分かることを意味します。<br>
-We solved the weakness of the world clock by writing the region and time to the 24-hour analog clock designed above. So you can instantly see which area is sunrise, sunset, day, or midnight. At the same time, it means that you can also see the areas where economic activity is active.
+上記の図にあるような一般的な世界時計の弱点を24時間アナログ時計に地域と時間を書き込むことによって解決。どの地域が日の出、日没、日中、深夜が即座に分かります。同時に経済活動が活発な時間帯の地域も分かることを意味します。<br>
+I solved the weaknesses of common world clocks like the one shown in the diagram above by writing the region and time on a 24-hour analog clock. Instantly know which region is sunrise, sunset, daytime, and midnight. At the same time, it also means that you can see the areas during which economic activity is most active.
 
 
 <br>
@@ -120,7 +120,7 @@ How to set <br>
 　　 使い方 <br>
  <br>
 A&Cボタン：ローカル時間の設定（リセット後もローカル時間の設定は記憶されます。）<br>
-Bボタン：　為替レートの表示　ON/OFF　（レートは約１０秒間隔で更新されます。またレート表示中は秒針は表示されません）<br>
+Bボタン：　為替レートの表示　ON/OFF　（レートは約5秒間隔で更新されます。またレート表示中は秒針は表示されません）<br>
 <br>
 <br>
 　　Usage <br>
